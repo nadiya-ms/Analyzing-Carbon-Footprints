@@ -1,5 +1,5 @@
 # Analyzing-Carbon-Footprints
-# Analyzing Carbon Footprints in SQL
+## Analyzing Carbon Footprints in SQL and Python
 
 _Greenhouse gas emissions attributable to products - from food to sneakers to appliances - make up more than 75% of global emissions._
 
